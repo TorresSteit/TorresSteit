@@ -48,6 +48,7 @@ Experienced in building production-level applications with authentication, WebSo
 - API testing
 - Authentication and security testing
 - Integration testing
+- -Postman
 
 ---
 
@@ -79,6 +80,8 @@ Experienced in building production-level applications with authentication, WebSo
 
 - ---
 
+---
+
 ### 🧩 Code Quality & Best Practices
 
 - Apply Clean Code principles in real projects
@@ -86,10 +89,19 @@ Experienced in building production-level applications with authentication, WebSo
 - Write readable, maintainable, and structured code
 - Follow layered architecture and proper separation of concerns
 - Use DTO pattern for clean data transfer
+- Apply SOLID principles in backend design
 - Maintain consistent code style and project structure
 - Focus on scalability and maintainability of backend systems
 - Apply best practices learned from "Clean Code" by Robert C. Martin
 
+SOLID principles applied in practice:
+
+- Single Responsibility Principle (SRP) — each class has a single responsibility (Controller, Service, Repository separation)
+- Open/Closed Principle (OCP) — design services to be extendable without modifying core logic
+- Dependency Inversion Principle (DIP) — use dependency injection in Spring Boot
+- Interface Segregation Principle (ISP) — use focused interfaces for clear responsibilities
+
+---
 ---
 ---
 
