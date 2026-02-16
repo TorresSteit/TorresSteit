@@ -76,6 +76,21 @@ Experienced in building production-level applications with authentication, WebSo
 - Secure session management
 - CORS configuration
 - Secure REST API protection
+
+- ---
+
+### 🧩 Code Quality & Best Practices
+
+- Apply Clean Code principles in real projects
+- Use meaningful and descriptive naming for variables, methods, and classes
+- Write readable, maintainable, and structured code
+- Follow layered architecture and proper separation of concerns
+- Use DTO pattern for clean data transfer
+- Maintain consistent code style and project structure
+- Focus on scalability and maintainability of backend systems
+- Apply best practices learned from "Clean Code" by Robert C. Martin
+
+---
 ---
 
 ## 💼 Current Focus
