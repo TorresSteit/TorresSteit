@@ -187,6 +187,48 @@ Key responsibilities:
 Tech stack:
 
 HTML, CSS, JavaScript, Bootstrap, SEO optimization, domain configuration
+### Winner — Corporate Website with Admin Panel
+
+🌐 Live website: https://uk-winner.com/en/
+
+Commercial corporate website developed for a client.
+
+⚠️ Source code is private and owned by the client.
+
+Role: Full-Stack Developer
+
+Key responsibilities:
+
+- Developed admin panel using React
+- Implemented backend service using Node.js for handling incoming messages
+- Implemented message management system in admin panel
+- Implemented multilingual support (internationalization)
+- Integrated frontend and backend communication
+- Implemented frontend functionality using React
+- Configured routing and admin panel logic
+- Deployment and production integration support
+- Communication with client and implementation of requirements
+
+Features:
+
+- React-based admin panel
+- Message management system
+- Backend integration using Node.js
+- Multilingual support (multi-language interface)
+- Secure admin access
+- Production deployment
+
+Tech stack:
+
+Frontend:
+React, JavaScript, HTML, CSS, i18n (multilingual support)
+
+Backend:
+Node.js
+
+Other:
+Admin panel development, multilingual support, production deployment
+
 
 ---
 
