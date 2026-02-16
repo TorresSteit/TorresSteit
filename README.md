@@ -47,11 +47,11 @@ Secure REST API design
 CORS configuration
 
 ### Engineering Practices
-Clean Code principles  
-SOLID principles  
-Layered architecture  
-DTO pattern  
-Separation of concerns  
+Clean Code principles
+SOLID principles
+Layered architecture
+DTO pattern
+Separation of concerns
 Scalable and maintainable backend design
 ---
 ---
