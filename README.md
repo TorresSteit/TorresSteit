@@ -270,7 +270,55 @@ Node.js
 Other:
 Admin panel development, multilingual support, production deployment
 
+### Online School Management System — Backend Application
 
+Backend application developed for hospital workflow automation, including database integration, notification handling, and system coordination.
+
+⚠️ Source code is private due to client ownership.
+
+Role: Junior Java Developer
+
+Key responsibilities:
+
+Backend development:
+- Implemented backend features using Java and Spring Boot
+- Worked with relational database integration using JPA and Hibernate
+- Implemented database migrations and data persistence logic
+- Integrated Telegram Bot API for automated notifications
+
+Testing and mocking:
+- Wrote unit tests using JUnit
+- Created mock services and test cases for backend components
+- Tested database integration and service layer logic
+- Assisted in improving backend stability through testing
+
+Integration and configuration:
+- Worked with application configuration and environment setup
+- Participated in backend integration and debugging
+- Assisted in maintaining system stability and fixing issues
+
+Team collaboration:
+- Worked as part of a development team
+- Participated in development coordination and implementation discussions
+- Collaborated with other developers on backend integration
+- Learned and applied Clean Code and layered architecture principles
+
+Tech stack:
+
+Backend:
+Java, Spring Boot, Spring MVC, Hibernate, JPA
+
+Testing:
+JUnit, Mockito, mock services
+
+Integration:
+Telegram Bot API
+
+Database:
+Relational database (JPA/Hibernate)
+
+Architecture:
+Layered architecture (Controller, Service, Repository)
 ---
 
 ## 📈 Currently Learning
