@@ -48,7 +48,7 @@ Experienced in building production-level applications with authentication, WebSo
 - API testing
 - Authentication and security testing
 - Integration testing
-- -Postman
+- Postman
 
 ---
 
@@ -144,37 +144,51 @@ Java, Spring Boot, Spring Security, MySQL, Hibernate, JPA, HTML, CSS, JavaScript
 
 Full-stack multiplayer game platform with real-time communication, secure authentication, and production-ready architecture.
 
+Status: 🚧 In active development (final stage)
+
+⚠️ Repository is currently private and cannot be shared publicly due to ongoing development, security configuration, and deployment preparation.
+
 Role: Lead Developer
 
 Key responsibilities:
 
+Backend & Architecture:
 - Designed and implemented backend architecture using Java and Spring Boot
 - Configured Spring Security authentication and authorization system
 - Implemented JWT authentication for REST API and WebSocket connections
 - Implemented secure WebSocket authentication and real-time communication
-- Integrated Redis for session management and token validation
+- Integrated Redis for secure session and token management
 - Configured CORS for secure frontend-backend communication
-- Integrated payment system infrastructure and backend payment handling logic
-- Configured Docker and Docker Compose for backend and frontend environments
-- Containerized frontend (React) using Docker
+- Implemented layered architecture following Clean Code and SOLID principles
+
+Frontend:
+- Developed frontend using React and TypeScript
+- Implemented routing and frontend-backend integration
 - Created mock services and mock API for frontend development and testing
-- Implemented frontend using React, including routing and API integration
-- Configured secure environment setup and deployment configuration
-- Managed development workflow using Jira
-- Conducted weekly code reviews and coordinated development process
-- Participated in regular meetings with stakeholders and client
-- Communicated with designer and coordinated UI implementation according to client requirements
-- Managed integration between frontend, backend, database, and infrastructure
+
+DevOps & Infrastructure:
+- Configured Docker and Docker Compose for backend and frontend environments
+- Configured secure environment setup using environment variables
+- Configured .gitignore to protect sensitive files and secrets
+- Implemented secure configuration management using Vault
+- Ensured secure handling of tokens, secrets, and environment configuration
+- Worked with CI/CD pipeline for automated build and deployment preparation
+
+Development workflow:
+- Created and managed pull requests using Git
+- Participated in code review process and reviewed code changes
+- Worked with Jira for task tracking and Agile workflow
+- Participated in regular team meetings and coordinated development process
+- Communicated with stakeholders and coordinated implementation requirements
 
 Features:
 
-- Secure authentication and authorization
-- Real-time game communication using WebSocket
-- Game creation and management
+- Secure authentication and authorization (Spring Security + JWT)
+- Real-time communication using WebSocket
 - Redis-based session and token management
-- REST API architecture
-- Dockerized full-stack environment
-- Frontend and backend integration
+- Full-stack Dockerized environment
+- Secure environment configuration
+- Production-ready architecture
 
 Tech stack:
 
@@ -184,8 +198,8 @@ Java, Spring Boot, Spring Security, JWT, WebSocket, Redis, MongoDB
 Frontend:
 React, TypeScript, JavaScript
 
-DevOps:
-Docker, Docker Compose
+DevOps & Security:
+Docker, Docker Compose, Vault, CI/CD, Git, .gitignore configuration
 
 Tools:
 Git, Jira
