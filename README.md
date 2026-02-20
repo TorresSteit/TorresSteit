@@ -31,6 +31,7 @@ Redis (caching, session and token storage)
 Docker, Docker Compose  
 Git  
 Linux  
+CI/CD
 Jira  
 IntelliJ IDEA, WebStorm
 
