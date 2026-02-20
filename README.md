@@ -32,6 +32,7 @@ Docker, Docker Compose
 Git  
 Linux  
 CI/CD
+
 Jira  
 IntelliJ IDEA, WebStorm
 
