@@ -1,190 +1,145 @@
 Hi, I'm Taras Iasko 👋  
-Full-Stack Java Developer | Spring Boot | React | Docker | Security  
+Backend Java Developer | Spring Boot & REST API | 3+ Years of Commercial Experience  
 
-Full-stack developer specializing in building secure, production-level web applications using Java and Spring Boot.
+Backend Java developer building REST APIs and services on Spring Boot / Spring Security / JPA-Hibernate across relational and NoSQL databases (PostgreSQL, MongoDB, MySQL). Comfortable owning a feature end-to-end: data model design, API implementation, testing, and code review.
 
-Currently leading development of a real-time multiplayer web application with secure authentication, WebSocket communication, and Docker-based infrastructure.
-
-Experienced in designing backend architecture, implementing authentication systems, and building scalable REST APIs.
+Currently technical lead on a production real-time multiplayer platform, directing a second backend developer and mentoring junior contributors.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### Backend
-Java, Spring Boot, Spring MVC, Spring Security  
-REST API design, JWT authentication, WebSocket integration  
-Hibernate, JPA  
-Secure authentication and authorization systems  
-Layered architecture (Controller, Service, Repository)
+Java 17/21, Spring Boot, Spring Security, Spring MVC, REST API, JPA/Hibernate, WebSocket, Java EE
 
-### Frontend
-React, TypeScript, JavaScript  
-HTML, CSS, Bootstrap  
-REST API integration
+### Databases
+PostgreSQL, MySQL, MongoDB, Redis  
+Data modeling, query optimization
 
-### Databases & Storage
-MySQL, MongoDB  
-Redis (caching, session and token storage)
+### Testing & Quality
+JUnit, Mockito, integration testing, Selenium  
+Code review, clean code / OOP principles, design patterns
 
-### DevOps & Tools
-Docker, Docker Compose  
-Git  
-Linux  
-CI/CD
-Jira  
-IntelliJ IDEA, WebStorm
+### Architecture
+REST API design, microservice-oriented architecture, message brokers (Kafka – basic)
 
-### Testing
-Unit testing  
-Integration testing  
-API testing (Postman)
+### Frontend (working knowledge)
+React, TypeScript, JavaScript, Thymeleaf
 
-### Security
-Spring Security  
-JWT authentication  
-WebSocket authentication  
-Secure REST API design  
-CORS configuration
+### DevOps / Tooling
+Git (branching, PR review), Docker, CI/CD (Jenkins, GitHub Actions), Linux, Nginx
 
-### Engineering Practices
-Clean Code principles
-SOLID principles
-Layered architecture
-DTO pattern
-Separation of concerns
-Scalable and maintainable backend design
----
----
+### Monitoring & Alerting
+Prometheus, Grafana, Loki, Alertmanager (alert rules, email/notification routing)
+
+### AI-Assisted Development
+Claude Code, GitHub Copilot, Cursor — used daily to speed up feature delivery, debugging, and documentation
+
 ---
 
 ## 💼 Current Focus
 
-Currently focused on building production-level full-stack applications with secure architecture and real-time communication.
-
-Main areas:
-
-• Backend development using Java and Spring Boot  
-• Secure authentication systems (Spring Security, JWT)  
-• REST API design and scalable backend architecture  
-• Full-stack development using React and TypeScript  
-• Docker-based development and deployment environments  
+• Leading backend architecture on a production real-time multiplayer platform  
+• Directing and mentoring another backend developer  
+• Security-hardened CI/CD pipelines (Docker, Jenkins, OWASP ZAP, Trivy, Snyk, Semgrep, Gitleaks)  
+• Observability: Prometheus/Grafana/Loki with Alertmanager  
+• Speeding up delivery with AI-assisted development tooling  
 
 ---
 
 ## 📦 Projects
 
-### Mafia The Game — Multiplayer Full-Stack Application  
-Role: Lead Developer  
-Status: In active development
+### MafiaTheGame — Production Real-Time Multiplayer Platform
+Role: Backend Tech Lead · Team of 4 · [mafiathegames.com](https://mafiathegames.com)
 
-Production-level multiplayer web application with secure authentication and real-time communication.
+Own backend architecture end-to-end and direct a second backend developer.
 
 Key contributions:
 
-• Designed and implemented backend architecture using Spring Boot  
-• Implemented authentication and authorization using Spring Security and JWT  
-• Developed real-time communication using WebSocket  
-• Integrated Redis for session and token management  
-• Developed frontend using React and TypeScript  
-• Configured Docker and Docker Compose for full-stack deployment  
-• Implemented secure environment configuration  
+• Built the backend in Spring Boot: Spring Security with JWT, WebSocket-based real-time communication, MongoDB + Redis data layer serving live multiplayer sessions  
+• Wrote 600+ automated unit and integration tests (JUnit, Mockito) plus custom Python load-testing tooling  
+• Built and operate the CI/CD and security pipeline (Jenkins, Docker, OWASP ZAP, Trivy, Snyk, Semgrep, Gitleaks)  
+• Set up Prometheus/Grafana/Loki monitoring with Alertmanager for proactive issue detection  
 
 Tech stack:  
-Java, Spring Boot, Spring Security, WebSocket, Redis, MongoDB, React, TypeScript, Docker
+Java 21, Spring Boot, MongoDB, Redis, JUnit, Mockito, Docker, Jenkins, Prometheus/Grafana/Loki, Python
 
 ---
 
-### ShadowStore — E-Commerce Web Application  
-Role: Full-Stack Developer  
+### NovaMarket (ShadowStore) — E-Commerce Platform
+Role: Full-Stack Developer / Backend Developer (freelance, two engagements) · [shadowstore.app](https://shadowstore.app)
 
-Commercial full-stack web store developed and delivered to a client.
+Rescued a legacy Spring MVC codebase and later returned for a modernization pass.
 
 Key contributions:
 
-• Developed backend using Spring Boot and Spring Security  
-• Implemented authentication and email verification system  
-• Integrated MySQL database using Hibernate and JPA  
-• Developed frontend using HTML, CSS, JavaScript, and Bootstrap  
+• Migrated legacy Spring MVC to Spring Boot with Thymeleaf server-side rendering  
+• Rebuilt storefront and admin panel from scratch: product catalog, shopping cart, session-based auth  
+• Refactored Spring Boot 2.4 → 3.x, upgraded to JDK 21, migrated persistence layer to MongoDB  
+• Set up Jenkins CI/CD with OWASP ZAP scanning and automated Azure deployment  
 
 Tech stack:  
-Java, Spring Boot, Spring Security, MySQL, Hibernate, JavaScript
+Java, Spring Boot 3, JDK 21, Thymeleaf, MongoDB, Docker, Jenkins, OWASP ZAP, Azure
 
 ---
 
-### Winner — Corporate Website with Admin Panel  
-Role: Full-Stack Developer  
-Live: https://uk-winner.com/en/
+### Online School Management System — Backend Application
+Role: Backend Developer (Outsource, full-time)
 
-Commercial corporate website with React-based admin panel.
+Client project delivering a Spring Boot REST API for school administration.
 
 Key contributions:
 
-• Developed admin panel using React  
-• Implemented backend service using Node.js  
-• Integrated frontend and backend communication  
-• Implemented multilingual support  
+• Built REST API with JWT authentication and role-based access control  
+• Implemented user management, scheduling, and grade-tracking modules  
+• Wrote unit/integration tests (JUnit, Mockito) plus Selenium end-to-end regression tests  
 
 Tech stack:  
-React, JavaScript, Node.js
+Java, Spring Boot, JPA/Hibernate, JWT, JUnit, Mockito, Selenium
 
 ---
 
-### Dina-Dent — Dental Clinic Website  
-Role: Web Developer  
-Live: https://www.dina-dent.com/
-
-Commercial website developed and deployed for a client.
+### Winner — Corporate Website with Admin Panel
+Role: Full-Stack Developer (freelance) · Live: [uk-winner.com](https://uk-winner.com/en/)
 
 Key contributions:
 
-• Developed responsive frontend using HTML, CSS, and JavaScript  
-• Implemented SEO optimization  
-• Configured domain and production deployment  
+• Built a React admin panel wired to a Node.js backend  
+• Implemented multilingual (i18n) support and real-time messaging via WebSocket  
+• Designed the PostgreSQL schema for messaging and user reviews  
 
 Tech stack:  
-HTML, CSS, JavaScript, Bootstrap
+React, TypeScript, Node.js, PostgreSQL, WebSocket
 
 ---
 
-### Online School Management System — Backend Application  
-Role: Junior Java Developer  
-
-Backend application developed using Java and Spring Boot.
+### Online English School Platform — Security Audit & Refactor
+Role: Backend Developer & DevOps (freelance) · Name withheld per client request
 
 Key contributions:
 
-• Implemented backend features using Spring Boot  
-• Integrated database using JPA and Hibernate  
-• Wrote unit tests and mock services  
-• Participated in backend integration and debugging  
+• Audited a legacy multi-language backend and discovered hardcoded secrets committed to a public repository; secured secrets handling  
+• Refactored ad-hoc multithreaded logic into dedicated services  
 
 Tech stack:  
-Java, Spring Boot, JPA, Hibernate, JUnit
+Java, Python, JavaScript, Docker, Git
 
 ---
 
 ## 📈 Currently Learning
 
 • Advanced Spring Security  
-• Microservices architecture  
+• Microservice-oriented architecture  
 • System design  
-• Docker and DevOps practices  
+• Kafka  
 • Advanced React development  
 
 ---
 
+
+
 ## 📫 Contact
 
 GitHub: https://github.com/TorresSteit  
-Location: Bratislava, Slovakia  
-
----
-
-## ⚡ About Me
-
-Full-stack Java developer specializing in backend development and secure web applications.
-
-Experienced in building production-level applications using Spring Boot, Spring Security, and React.
-
-Focused on writing clean, scalable, and maintainable code and continuously improving engineering skills.
+LinkedIn: https://linkedin.com/in/torressteit  
+Location: Bratislava, Slovakia
